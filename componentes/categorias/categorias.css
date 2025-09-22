@@ -1,0 +1,45 @@
+.categorias {
+    margin-top: 20px;
+}
+
+.categorias ul {
+    gap: 5px;
+}
+
+.categorias ul li {
+    border: 1px solid rgb(5, 18, 107);
+    border-radius: 3px;
+    padding: 8px 20px;
+    margin-top: 10px;
+    width: 200px;
+}
+
+.sueteres {
+    background-color: rgb(70, 157, 189);
+    color: beige;
+    font-weight: 600;
+}
+.gorras {
+    background-color: rgb(112, 184, 231);
+    color: beige;
+    font-weight: 600;
+}
+.calzado {
+    background-color: rgb(64, 157, 194);
+    color: beige;
+    font-weight: 600;
+}
+.accesorios {
+    background-color: rgb(74, 154, 197);
+    color: beige;
+    font-weight: 600;
+}
+
+.h3 {
+    margin-top: 20px;
+    
+}
+.categorias h3 {
+    color: rgb(51, 150, 189);
+    font-style: italic;
+}
